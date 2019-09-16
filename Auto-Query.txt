@@ -1,0 +1,1 @@
+SELECT * FROM dbo.TABLACOSAS//s//;//s//JTB6032\SQLServer2//s//DBO.BECARIOS2//s//C:\Users\usuario\Documents\NetBeansProjects\GeneradorCSV/fichero.csv//s//
